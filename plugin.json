@@ -1,0 +1,8 @@
+{
+    "name": "HelloWorld",
+    "description": "Plugin for PlentyMarkets",
+    "namespace": "HelloWorld",
+    "author": "James codes",
+    "type": "plugin",
+    "serviceProvider": "HelloWorld\\providers\\HelloWorldServiceProvider"
+}
